@@ -1,0 +1,23 @@
+{
+  "name": "unlocator-switcher",
+  "version": "1.0.0",
+  "description": "Easily switch your Netflix region with Unlocator",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/klaemo/unlocator-switcher.git"
+  },
+  "keywords": [
+    "unlocator",
+    "netflix"
+  ],
+  "author": "Clemens Stolle <klaemo@fastmail.fm>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/klaemo/unlocator-switcher/issues"
+  },
+  "homepage": "https://github.com/klaemo/unlocator-switcher"
+}
